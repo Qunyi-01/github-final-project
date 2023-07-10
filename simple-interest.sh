@@ -7,6 +7,7 @@
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
    # Qunyi-01
+   #	modified on July 10, 2023
 
    # Input:
    # p, principal amount
